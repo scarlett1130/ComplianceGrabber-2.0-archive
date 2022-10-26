@@ -58,9 +58,7 @@ def read_item(part_number):
 @app.get("/mouser/{part_number}")
 def read_item(part_number):
     return scrapper.scrap_mouser(part_number)
-
-
-
+    
 
 @app.get("/te/{part_number}")
 def read_item(part_number):
