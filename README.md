@@ -5,6 +5,13 @@ uvicorn main:app --reload
 
 web scarapping by python
 
+This is backend of https://suppliers.vercel.app/
+This site is web scrappin site.
+Using the python fast api for scrapping.
+
+While develop I have several issues such as CORS and deploy.
+so this backend deployed in heroku.
+
 scrapping company lists : 
 
 https://www.onsemi.com/PowerSolutions/MaterialComposition.do
