@@ -1,5 +1,8 @@
 ﻿# ComplianceGrabber-2.0-archive
 
+pip install  -r requirements.txt
+uvicorn main:app --reload
+
 web scarapping by python
 
 scrapping company lists : 
